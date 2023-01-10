@@ -3,7 +3,7 @@ Anon is a fully responsive ecommerce website, maximum compatiblities in all mobi
 
 ## Demo
 
-![Anon Desktop Demo](https://ky-nguyen.github.io/-eCommercewebsite/)"Desktop Demo")
+![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
 
 
 create (mobile-first responsive) modern ecommerce website.
